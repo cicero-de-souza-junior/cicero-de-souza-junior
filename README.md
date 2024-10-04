@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou Cicero de Souza Junior</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados</h3>
+<h1 align="left">Oi 👋, Eu sou Cicero de Souza Junior</h1>
+<h3 align="left">Apaixonado por ciência e análise de dados</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados [Microsoft Power BI para Business Intelligence e Data Science](https://github.com/cicero-de-souza-junior/powerbi_dashboards)
 
