@@ -1,3 +1,35 @@
+# Cicero de Souza Junior
+
+## 👋 Sobre Mim:
+Eu sou um Analista de Dados formado em Ciência de Dados e Análise do Comportamento pela Unicesumar. Especializado em análise de dados de aplicativo, possuo vasta experiência em análise de aquisição, comportamento e engajamento de usuários, além de estabilidade e comunicação. Desempenho também um papel de disseminador de conhecimento, sempre disposto a ensinar e aprender, compartilhando insights e meu know-how na área.
+
+## 💻 Habilidades:
+- Python, SQL, Dax e Power Query M Language;
+- Excel, Power Point e Google Sheets.
+
+## ⚙️ Bancos de Dados:
+- SQL Server, SQLite e MySQL.
+
+## 📊 Ferramentas de Visualização de Dados:
+- Power BI e Looker Studio.
+
+## 🔄 Controle de Versão:
+- Git (GitHub).
+
+## 📋 Ferramentas de Gerenciamento de Projetos:
+- Jira.
+
+## 🎲 Análise e Comunicação:
+- Definição de KPIs e Indicadores;
+- Análises exploratórias;
+- Análises descritivas;
+- Storytelling.
+
+## 🌐 Vamos nos conectar
+- Linkedin: https://www.linkedin.com/in/cicero-de-souza-junior/
+
+
+<!--
 <h1 align="left">Oi 👋, Eu sou Cicero de Souza Junior</h1>
 <h3 align="left">Apaixonado por ciência e análise de dados</h3>
 
@@ -21,7 +53,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!--
+
 
 ## 👋 Olá, eu sou Cícero de Souza Júnior! 
 
