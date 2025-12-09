@@ -4,14 +4,15 @@
 Eu sou um Analista de Dados formado em Ciência de Dados e Análise do Comportamento pela Unicesumar. Especializado em análise de dados de aplicativo, possuo vasta experiência em análise de aquisição, comportamento e engajamento de usuários, além de estabilidade e comunicação. Desempenho também um papel de disseminador de conhecimento, sempre disposto a ensinar e aprender, compartilhando insights e meu know-how na área.
 
 ## 💻 Habilidades:
-- Python, SQL, Dax e Power Query M Language;
+- Python, Dax e Power Query M Language;
 - Excel, Power Point e Google Sheets.
 
 ## ⚙️ Bancos de Dados:
-- SQL Server, SQLite e MySQL.
+- SQL Server e Google BigQuery.
 
 ## 📊 Ferramentas de Visualização de Dados:
-- Power BI e Looker Studio.
+- Power BI e Looker Studio;
+- Google Analytics 4 e Firebase, AppsFlyer.
 
 ## 🔄 Controle de Versão:
 - Git (GitHub).
