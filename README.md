@@ -12,7 +12,7 @@ Eu sou um Analista de Dados formado em Ciência de Dados e Análise do Comportam
 
 ## 📊 Ferramentas de Visualização de Dados:
 - Power BI e Looker Studio;
-- Google Analytics 4 e Firebase, AppsFlyer.
+- Google Analytics 4, Firebase e AppsFlyer.
 
 ## 🔄 Controle de Versão:
 - Git (GitHub).
