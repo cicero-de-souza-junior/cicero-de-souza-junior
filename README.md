@@ -8,8 +8,9 @@ Tenho forte preocupação com **confiabilidade, governança e padronização de 
 
 ## 👋 Sobre Mim
 
-Sou Tecnólogo em Ciência de Dados e Análise de Comportamento pela Unicesumar e **MBA em Big Data e Inteligência Competitiva (Descomplica)**.  
-Atuo principalmente com dados de aplicativos e produtos digitais, analisando aquisição, engajamento, retenção e estabilidade.
+Atuo no ciclo completo de mensuração de produtos digitais, da definição de métricas e validação da coleta até análises recorrentes e visualizações estratégicas para apoio à tomada de decisão.
+Trabalho com foco na **consistência da coleta, padronização de métricas e leitura crítica dos dados**, apoiando decisões com base em informações estáveis e comparáveis.
+
 
 No dia a dia, exerço também um papel ativo de **apoio técnico e disseminação de conhecimento**, auxiliando outros analistas, revisando análises e compartilhando boas práticas de mensuração, visualização e uso responsável de dados.
 
