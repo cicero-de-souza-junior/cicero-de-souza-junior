@@ -1,29 +1,29 @@
 # Cicero de Souza Junior
 
-Analista de Dados com foco em **Digital e App Analytics**, atuando no ciclo completo de mensuração de produtos digitais, da definição de métricas e validação da coleta até análises recorrentes e visualizações estratégicas para apoio à tomada de decisão.
+Analista de Dados com foco em **Digital e App Analytics**.
 
-Tenho forte preocupação com **confiabilidade, governança e padronização de dados**, além de atuação próxima a times técnicos e stakeholders para transformar dados em insumos claros para decisão.
+Atuo no ciclo completo de mensuração de produtos digitais, da definição de métricas e validação da coleta até análises recorrentes e visualizações estratégicas para apoio à tomada de decisão.
+
+Trabalho com foco na **consistência da coleta, padronização de métricas e leitura crítica dos dados**, apoiando decisões com base em informações estáveis e comparáveis.
 
 ---
 
 ## 👋 Sobre Mim
 
-Atuo no ciclo completo de mensuração de produtos digitais, da definição de métricas e validação da coleta até análises recorrentes e visualizações estratégicas para apoio à tomada de decisão.
-Trabalho com foco na **consistência da coleta, padronização de métricas e leitura crítica dos dados**, apoiando decisões com base em informações estáveis e comparáveis.
+Sou Tecnólogo em Ciência de Dados e Análise de Comportamento pela Unicesumar e **MBA em Big Data e Inteligência Competitiva (Descomplica)**.
 
-
-No dia a dia, exerço também um papel ativo de **apoio técnico e disseminação de conhecimento**, auxiliando outros analistas, revisando análises e compartilhando boas práticas de mensuração, visualização e uso responsável de dados.
+Minha atuação é concentrada em produtos digitais e aplicativos, com análises voltadas à aquisição, engajamento, retenção e estabilidade.  
+No dia a dia, também atuo de forma ativa no **apoio técnico a outros analistas**, revisão de análises e disseminação de boas práticas de mensuração e uso de dados.
 
 ---
 
 ## 🧠 Frentes de Atuação
 
 - Mensuração de produtos digitais e aplicativos  
-- Definição, estruturação e evolução de KPIs  
+- Definição, estruturação e evolução de métricas e KPIs  
 - Análise de comportamento, engajamento e retenção de usuários  
 - Análises exploratórias, descritivas e recorrentes  
 - Visualização de dados para públicos técnicos e não técnicos  
-- Apoio à tomada de decisão orientada a dados  
 
 ---
 
@@ -55,8 +55,8 @@ No dia a dia, exerço também um papel ativo de **apoio técnico e disseminaçã
 
 ## 🤖 Uso de IA no Trabalho
 
-Utilizo **IA Generativa como ferramenta de apoio ao trabalho analítico**, especialmente para:
-- Revisão e organização de textos e análises técnicas  
+Utilizo **IA Generativa como apoio ao trabalho analítico**, especialmente para:
+- Revisão e organização de análises e textos técnicos  
 - Construção e validação de expressões complexas (ex: regex em BI)  
 - Exploração inicial de dados e apoio à organização de grandes volumes de informação  
 
@@ -66,4 +66,15 @@ A interpretação dos dados e a tomada de decisão permanecem sempre baseadas em
 
 ## 📌 Projetos
 
-Este GitHub é utilizado como **port**
+Este GitHub é utilizado como **portfólio de projetos**, com foco em:
+- Problemas reais de negócio  
+- Clareza na análise e nos resultados  
+- Comunicação objetiva de insights  
+
+⬇️ Consulte os repositórios fixados no perfil para acessar os principais projetos.
+
+---
+
+## 🌐 Contato
+
+- LinkedIn: https://www.linkedin.com/in/cicero-de-souza-junior/
