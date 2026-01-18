@@ -10,7 +10,7 @@ Trabalho com foco na **consistência da coleta, padronização de métricas e le
 
 ## 👋 Sobre Mim
 
-Sou Tecnólogo em Ciência de Dados e Análise de Comportamento pela Unicesumar e **MBA em Big Data e Inteligência Competitiva (Descomplica)**.
+Sou Tecnólogo em Ciência de Dados e Análise de Comportamento (Unicesumar) e **MBA em Big Data e Inteligência Competitiva (Descomplica)**.
 
 Minha atuação é concentrada em produtos digitais e aplicativos, com análises voltadas à aquisição, engajamento, retenção e estabilidade.  
 No dia a dia, também atuo de forma ativa no **apoio técnico a outros analistas**, revisão de análises e disseminação de boas práticas de mensuração e uso de dados.
