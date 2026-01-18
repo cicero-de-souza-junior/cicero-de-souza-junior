@@ -1,69 +1,68 @@
 # Cicero de Souza Junior
 
-## 👋 Sobre Mim:
-Eu sou um Analista de Dados formado em Ciência de Dados e Análise do Comportamento pela Unicesumar. Especializado em análise de dados de aplicativo, possuo vasta experiência em análise de aquisição, comportamento e engajamento de usuários, além de estabilidade e comunicação. Desempenho também um papel de disseminador de conhecimento, sempre disposto a ensinar e aprender, compartilhando insights e meu know-how na área.
+Analista de Dados com foco em **Digital e App Analytics**, atuando no ciclo completo de mensuração de produtos digitais, da definição de métricas e validação da coleta até análises recorrentes e visualizações estratégicas para apoio à tomada de decisão.
 
-## 💻 Habilidades:
-- Python, Dax e Power Query M Language;
-- Excel, Power Point e Google Sheets.
+Tenho forte preocupação com **confiabilidade, governança e padronização de dados**, além de atuação próxima a times técnicos e stakeholders para transformar dados em insumos claros para decisão.
 
-## ⚙️ Bancos de Dados:
-- SQL Server e Google BigQuery.
+---
 
-## 📊 Ferramentas de Visualização de Dados:
-- Power BI e Looker Studio;
-- Google Analytics 4, Firebase e AppsFlyer.
+## 👋 Sobre Mim
 
-## 🔄 Controle de Versão:
-- Git (GitHub).
+Sou Tecnólogo em Ciência de Dados e Análise de Comportamento pela Unicesumar e **MBA em Big Data e Inteligência Competitiva (Descomplica)**.  
+Atuo principalmente com dados de aplicativos e produtos digitais, analisando aquisição, engajamento, retenção e estabilidade.
 
-## 📋 Ferramentas de Gerenciamento de Projetos:
-- Jira.
+No dia a dia, exerço também um papel ativo de **apoio técnico e disseminação de conhecimento**, auxiliando outros analistas, revisando análises e compartilhando boas práticas de mensuração, visualização e uso responsável de dados.
 
-## 🎲 Análise e Comunicação:
-- Definição de KPIs e Indicadores;
-- Análises exploratórias;
-- Análises descritivas;
-- Storytelling.
+---
 
-## 🌐 Vamos nos conectar
-- Linkedin: https://www.linkedin.com/in/cicero-de-souza-junior/
+## 🧠 Frentes de Atuação
 
+- Mensuração de produtos digitais e aplicativos  
+- Definição, estruturação e evolução de KPIs  
+- Análise de comportamento, engajamento e retenção de usuários  
+- Análises exploratórias, descritivas e recorrentes  
+- Visualização de dados para públicos técnicos e não técnicos  
+- Apoio à tomada de decisão orientada a dados  
 
-<!--
-<h1 align="left">Oi 👋, Eu sou Cicero de Souza Junior</h1>
-<h3 align="left">Apaixonado por ciência e análise de dados</h3>
+---
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Microsoft Power BI para Business Intelligence e Data Science](https://github.com/cicero-de-souza-junior/powerbi_dashboards)
+## 🛠️ Stack Principal
 
-- 🌱 Atualmente estou aprendendo **Power BI, Python, SQL**
+**Análise e Dados**
+- Python  
+- SQL (Google BigQuery, SQL Server)
 
-- 💬 Me pergunte sobre **Power BI, Looker Studio, Excel, Google Play Console, Google Firebase**
+**Visualização e BI**
+- Looker Studio  
+- Power BI  
 
-- 📫 Você me acha através do e-mail **cicerodesouzajr@outlook.com**
+**Digital Analytics**
+- Google Analytics 4  
+- Firebase  
+- AppsFlyer  
 
-- 📄 Saiba sobre minhas competências e habilidades aqui [https://www.linkedin.com/in/cicero-de-souza-junior/](https://www.linkedin.com/in/cicero-de-souza-junior/)
+---
 
-- ⚡ Fato engraçado **Tive minhas aventuras como autor de terror, tendo 2 contos publicados em coletâneas.**
+## 🔧 Ferramentas Complementares
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cicero-de-souza-junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cicero-de-souza-junior/" height="30" width="40" /></a>
-</p>
+- Git e GitHub  
+- Excel e Google Sheets  
+- Jira  
+- Power Query e DAX  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## 🤖 Uso de IA no Trabalho
 
+Utilizo **IA Generativa como ferramenta de apoio ao trabalho analítico**, especialmente para:
+- Revisão e organização de textos e análises técnicas  
+- Construção e validação de expressões complexas (ex: regex em BI)  
+- Exploração inicial de dados e apoio à organização de grandes volumes de informação  
 
-## 👋 Olá, eu sou Cícero de Souza Júnior! 
+A interpretação dos dados e a tomada de decisão permanecem sempre baseadas em raciocínio analítico humano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projetos
+
+Este GitHub é utilizado como **port**
